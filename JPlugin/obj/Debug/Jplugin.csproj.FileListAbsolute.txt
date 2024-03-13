@@ -1,0 +1,12 @@
+C:\Users\zhurbin.yv\source\repos\Jplugin\bin\Debug\Jplugin.dll
+C:\Users\zhurbin.yv\source\repos\Jplugin\bin\Debug\Jplugin.pdb
+C:\Users\zhurbin.yv\source\repos\Jplugin\obj\Debug\Jplugin.csproj.AssemblyReference.cache
+C:\Users\zhurbin.yv\source\repos\Jplugin\obj\Debug\Jplugin.csproj.CoreCompileInputs.cache
+C:\Users\zhurbin.yv\source\repos\Jplugin\obj\Debug\Jplugin.dll
+C:\Users\zhurbin.yv\source\repos\Jplugin\obj\Debug\Jplugin.pdb
+\\srv-data\Общая папка\03-Пользователи\Журбин\PluginDevelopment\JPlugin\bin\Debug\Jplugin.dll
+\\srv-data\Общая папка\03-Пользователи\Журбин\PluginDevelopment\JPlugin\bin\Debug\Jplugin.pdb
+\\srv-data\Общая папка\03-Пользователи\Журбин\PluginDevelopment\JPlugin\obj\Debug\Jplugin.csproj.AssemblyReference.cache
+\\srv-data\Общая папка\03-Пользователи\Журбин\PluginDevelopment\JPlugin\obj\Debug\Jplugin.csproj.CoreCompileInputs.cache
+\\srv-data\Общая папка\03-Пользователи\Журбин\PluginDevelopment\JPlugin\obj\Debug\Jplugin.dll
+\\srv-data\Общая папка\03-Пользователи\Журбин\PluginDevelopment\JPlugin\obj\Debug\Jplugin.pdb
